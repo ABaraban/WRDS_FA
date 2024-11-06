@@ -3,3 +3,4 @@
 
 # Ignore Jupyter notebook checkpoints
 **/ipynb_checkpoints/
+wrds-py
